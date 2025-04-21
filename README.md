@@ -1,10 +1,5 @@
 # 🌐 Metaverse Modern Website - Next.js 13
 
-## Overview
-Metaverse Modern Website is a sleek, interactive site showcasing a futuristic metaverse concept. Built with **Next.js 13** and **React**, it leverages Framer-Motion for smooth animations and a modern UI. This project highlights my ability to create visually appealing, user-friendly frontends, aligning with Amana’s goal of improving UI/UX for DeFi users.
-
-**[Live Demo](metaversus-by-rohit.vercel.app)**
-
 ## Features
 - **Dynamic UI**: Interactive sections with smooth animations using Framer-Motion.
 - **Responsive Design**: Fully responsive layout for desktop and mobile users.
@@ -27,8 +22,8 @@ To run this project locally, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RohitKS7/Metaverse-Modern-NEXT-13-Site.git
-   cd Metaverse-Modern-NEXT-13-Site
+   git clone https://github.com/andersn0002/Metaverse-Frontend.git
+   cd Metaverse-Frontend
    ```
 
 2. Install dependencies:
@@ -50,16 +45,6 @@ To run this project locally, follow these steps:
 `styles/:` Custom CSS for styling.
 `public/:` Static assets like images.
 
-# Relevance to Amana
-
-This project demonstrates my expertise with Amana’s stack:
-
-- Built with Next.js and React, matching Amana’s frontend requirements.
-
-- Focuses on modern UI/UX with animations, similar to Amana’s need for a user-friendly DeFi interface.
-
-- Shows my ability to create engaging designs, like the Amana mockup.
-
 ## Contribution
 
 I built this project from scratch, designing the UI and implementing the frontend with Next.js 13, React, and Framer-Motion. I focused on creating a seamless user experience with a futuristic feel.
@@ -69,4 +54,4 @@ I built this project from scratch, designing the UI and implementing the fronten
 This project is open-source under the MIT License—free to use and modify.
 
 ## Contact
-For questions, reach out to me on LinkedIn & X.
+For questions, reach out to me on telegram (@andersn0093).
